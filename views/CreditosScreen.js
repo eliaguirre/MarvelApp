@@ -30,6 +30,8 @@ class CreditosScreen extends React.Component {
         <Text style={styles.section}>Desarrollador por:</Text>
         <Text style={styles.text}>Felix Eli Lopez Aguirre</Text>
         <Text style={styles.text}>Web and Mobile developer</Text>
+        <Text style={styles.text}>Correo: f.eli.x.lopez.aguirre@gmail.com</Text>
+        <Text style={styles.text}>Edad: 23</Text>
         <Text style={styles.section}>Tecnologias</Text>
         <Text style={styles.text}>React Native 0.59.4</Text>
         <Text style={styles.text}>Marvel API v1</Text>
